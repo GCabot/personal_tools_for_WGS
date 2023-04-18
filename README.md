@@ -13,7 +13,7 @@ This script is to split one multifasta file into several singlefasta files into 
 
   USAGE: sh DO_split_multifasta.sh [FILE] [LINEAGE] [BASE_ROUTE]*
   
-  *** You can change the value for BASE_ROUTE (ln.5) in the script to avoid the need to indicate the [BASE_ROUTE] it every time you use the script (usually /home/computer_name) ***
+  *** You can change the value for BASE_ROUTE (ln.5) in the script to avoid the need to indicate the [BASE_ROUTE] every time you use the script (usually /home/computer_name) ***
   
 
   
